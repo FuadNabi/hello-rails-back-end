@@ -58,9 +58,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-- Install ruby on your computer or run in with docker
-- Run `ruby main`
+Install and run React front-end: React front-end is avalable in repo https://github.com/FuadNabi/hello-rails-back-end 
+You could use command `git clone https://github.com/FuadNabi/hello-rails-back-end`
 
 ### Setup
 
@@ -76,10 +75,18 @@ Install this project with:
 
 ### Usage
 
+Usage
+Run the following command to recompile the project:
+
+rake assets:precompile
+
+Or run this commant in the separate terminal:
+
+yarn build --watch
+
 To run the project, execute the following command:
 
-`ruby main`
-
+rails server
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
