@@ -58,8 +58,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 In order to run this project you need:
-Install and run React front-end: React front-end is avalable in repo https://github.com/FuadNabi/hello-rails-back-end 
-You could use command `git clone https://github.com/FuadNabi/hello-rails-back-end`
+Install and run React front-end: React front-end is avalable in repo https://github.com/FuadNabi/hello-react-front-end/ 
+You could use command `git clone https://github.com/FuadNabi/hello-react-front-end/`
 
 ### Setup
 
